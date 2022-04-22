@@ -13,3 +13,5 @@
      
      
 * Cppcheck [![Cppcheck Analysis](https://github.com/dineshkumar-t-dk/M2_SERIAL_LED/actions/workflows/Cppcheck_Analyse.yml/badge.svg)](https://github.com/dineshkumar-t-dk/M2_SERIAL_LED/actions/workflows/Cppcheck_Analyse.yml)
+
+* Build-Linux [![Build-Linux](https://github.com/dineshkumar-t-dk/M2_SERIAL_LED/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/dineshkumar-t-dk/M2_SERIAL_LED/actions/workflows/Build%20on%20Linux.yml)
